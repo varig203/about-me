@@ -5,11 +5,17 @@ order: 4
 ---
 
 ```bash
-[entity@arch]$ neofetch
-   /\      OS: Arch Linux
-  /  \     CPU: AMD Ryzen 9 7900x 
- /    \    GPU: Nvidia Geforce RTX 4070
-/      \   RAM: 64 GB DDR5 6400 Mhz
+[entity@ArchLinux]$ neofetch
+      /\          
+     /  \         OS : Arch Linux x86_64 
+    /\   \        VER: 6.8.2-zen2-1-zen 
+   /      \       PKG: 2117 (pacman), 29 (flatpak) 
+  /   ,,   \      CPU: AMD Ryzen 9 7900x (24) @ 5.7GHz 
+ /   |  |  -\     GPU: Nvidia Geforce RTX 4070
+/_-''    ''-_\    GPU: AMD ATI Raphael 
+                  MEM: 6.35GiB / 62.02GiB 
+                         
+
 ```
 
 # Welcome to my corner of the web
