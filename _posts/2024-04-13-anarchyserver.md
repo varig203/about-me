@@ -4,7 +4,7 @@ title: Anarchy Server Info
 date: 2024-04-13 13:54 -0700
 tags: 
  - server
- - server
+ - info
 toc: true
 img_path: assets/anarchyserverpost/
 ---
