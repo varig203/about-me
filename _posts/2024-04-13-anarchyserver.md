@@ -6,7 +6,7 @@ tags:
  - server
  - info
 toc: true
-img_path: assets/anarchyserverpost/
+img_path: assets/img/posts/anarchyserverpost/
 <author_id>:
   name: <full name>
   url: <homepage_of_author>
