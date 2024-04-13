@@ -17,5 +17,5 @@ This server will have an interesting twist to my regular style of SMP's. Instead
 
 
 
-![Folia Logo]({{ page.img_path }}/folia.png){: .normal }
+![Folia Logo]({{ page.img_path }}folia.png){: .normal }
 _Folia logo credits to [PaperMC/Folia](https://github.com/PaperMC/Folia)_
