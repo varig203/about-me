@@ -37,7 +37,7 @@ Well it is an anarchy server so anything is allowed right? Not exactly, breaking
 
 ## Server Plugins
 
-Like any decent server this has plugins.
+Like any decent server this has plugins. I will update this plugin list over time once more plugins support Folia (e.g. NoChatReports, ).
 
 ### Greentext
 
@@ -63,3 +63,30 @@ It's just a chunk pregenerator. Why was it added? To improve performance a bit m
 
 Way too large of a [feature list](https://hangar.papermc.io/Ginko/AnarchyExploitFixes#features). Basically it just fixes a bunch of bugs encountered on other anarchy servers like the NoCom exploit for example. I will disable some features of it though.
 
+#### ProtocolLib
+
+Just a dependancy for AEF (AnarchyExploitFixes).
+
+### Spark
+
+A profiler for the server, I will be using it for monitoring the server while away. For more info go to [spark github](https://github.com/lucko/spark)
+
+## Hardware
+
+So, the biggest thing for the server will be the hardware. Unlike my other servers, this one will be run locally.
+
+### Main server hardware
+
+The main server is my old PC.
+
+- CPU: Ryzen 7 3700x (16) @4.2GHz
+- MEM: 32 GB DDR4 3200MHz
+- STOR: Unknown TB
+
+### Test server hardware
+
+The test server is my current PC.
+
+- CPU: Ryzen 9 7900x (24) @5.7GHz
+- MEM: 64 GB DDR5 6400MHz
+- STOR: 2.5 TB (2500 GB)
