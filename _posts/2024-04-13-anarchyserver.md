@@ -82,6 +82,7 @@ The main server is my old PC.
 - CPU: Ryzen 7 3700x (16) @4.2GHz
 - MEM: 32 GB DDR4 3200MHz
 - STOR: Unknown TB
+- OS: Fedora Linux Server 39
 
 ### Test server hardware
 
@@ -90,3 +91,4 @@ The test server is my current PC.
 - CPU: Ryzen 9 7900x (24) @5.7GHz
 - MEM: 64 GB DDR5 6400MHz
 - STOR: 2.5 TB (2500 GB)
+- OS: Arch Linux x86_64
