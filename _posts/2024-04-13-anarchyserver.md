@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (CANCELLED) Project Ares Server Info
+title: CANCELLED Project Ares Server Info
 date: 2024-04-13 13:54 -0700
 tags: 
  - server
@@ -12,6 +12,8 @@ img_path: assets/img/posts/anarchyserverpost/
   name: <full name>
   url: <homepage_of_author>
 ---
+
+# This project has been cancelled
 
 This server will have an interesting twist to my regular style of SMP's. Instead this server will be an anarchy server and, this article will explain how it will all work.
 
