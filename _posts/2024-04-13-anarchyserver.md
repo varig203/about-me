@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Project Ares Server Info
+title: [CANCELLED] Project Ares Server Info
 date: 2024-04-13 13:54 -0700
 tags: 
  - server
  - info
 toc: true
-pin: true
+pin: false
 img_path: assets/img/posts/anarchyserverpost/
 <author_id>:
   name: <full name>
